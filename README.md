@@ -1,1 +1,1 @@
-# iNetBanking
+# MyApplication
